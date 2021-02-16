@@ -1,0 +1,29 @@
+header {
+	color:  aqua;
+	font-size: 20px;
+	padding: 20px;
+	background-color: darkblue;
+   }
+
+body {
+	background-image: url(wallpaper.jpg);
+	}
+ 
+ article {
+   padding: 20px;
+   background-color: black;
+   color: green;
+  }
+
+nav {
+	color: white; 
+	font-size: 40px; 
+	padding: 1px; 
+	background-color: black;
+}
+
+button {
+	background-image: url(Claypots.png);
+	padding: 20px;
+	font-size: 20px;
+}
